@@ -9,7 +9,7 @@ class App {
     this.app.use(express.json());
   }
 
-  public startServer(PORT: string | number = 3001): void {
+  public startServer(PORT: string | number = 3005): void {
     connectToDatabase();
     this.app.listen(
       PORT,
