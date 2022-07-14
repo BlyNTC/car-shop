@@ -49,7 +49,7 @@ The following tools were used in this project:
 
 - [Express](https://expressjs.com/)
 - [MongoDB](https://www.mysql.com/)
-- [TypeScript](https://www.typescriptlang.org/))
+- [TypeScript](https://www.typescriptlang.org/)
 
 
 
